@@ -12,7 +12,7 @@
 
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v7/main.css);
-
+@import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
